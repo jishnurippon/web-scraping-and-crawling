@@ -1,0 +1,5 @@
+lxml
+flask
+rake-nltk
+python-rake
+tkinter
